@@ -1,2 +1,2 @@
 # Calculadora-IMC
- Calculando IMC
+ Projeto calculadora-IMC do canal - Matheus Battisti
